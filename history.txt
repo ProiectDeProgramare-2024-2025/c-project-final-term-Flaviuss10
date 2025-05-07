@@ -1,0 +1,6 @@
+flavius,30,pentru,culoare,fluture,cuvant,ghfs
+mihai,13,culoare,floare
+Cristian,7,andreim
+Andreea,31,andreim,flavius,pentru,fluture,ghfs
+Mihnea,0
+Tudor,27,flavius,culoare,fluture,soldat
